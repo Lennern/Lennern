@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">IT student at UiA</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
